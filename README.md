@@ -1,6 +1,6 @@
 # Automatic-liver-segmentation using Monai and PyTorch
 
-![Output image](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/blob/main/images/liver_segmentation.PNG)
+![Output image](https://github.com/Rakib-Hasan-Rahad/Automatic-liver-segmentation./blob/d755e5d3f94a3c05c700bfbc5b66f45d5bde22b5/images/liver_segmentation.PNG)
 
 ## Packages that need to be installed:
 ```

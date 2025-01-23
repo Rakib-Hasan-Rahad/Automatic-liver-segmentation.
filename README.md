@@ -78,7 +78,7 @@ And to run the code, you can use the scripts `train.py` that will call the train
 ## Testing the model
 To test the model, there is the jupyter notebook `testing.ipynb` file that contains the different codes that you need. You will find the part to plot the training/testing graphs about the loss and the dice coefficient and of course you will find the the part to show the results of one of the test data to see the output of your model.
 
-![Output image](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/blob/main/images/graphs.PNG)
+![Output image]([https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/blob/main/images/graphs.PNG](https://github.com/Rakib-Hasan-Rahad/Automatic-liver-segmentation./blob/8c993c05d42ff71ef6e7d8ebf91948d63b840547/images/graphs.PNG))
 
 ----------------------------------------------------------------------------------------------------------------------------------
 

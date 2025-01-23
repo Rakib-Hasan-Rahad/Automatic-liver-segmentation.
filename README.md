@@ -1,9 +1,4 @@
-# Automatic-liver-segmentation.
-[![GitHub issues](https://img.shields.io/github/issues/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch)](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/issues) [![GitHub stars](https://img.shields.io/github/stars/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch)](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/stargazers) [![GitHub license](https://img.shields.io/github/license/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch)](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch) [![GitHub forks](https://img.shields.io/github/forks/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch)](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/network) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/torch) [![YouTube Video Views](https://img.shields.io/youtube/views/AU4KlXKKnac?style=social)](https://youtu.be/AU4KlXKKnac) ![GitHub watchers](https://img.shields.io/github/watchers/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch?style=social)
-# Liver Segmentation Using Monai and PyTorch
-You'll find all the Python files you need to accomplish liver segmentation with Monai and PyTorch in this repo, and you can use the same code to segment other organs as well.
-
-Link to the original course [here](https://www.learn.pycad.co/course/liver-segmentation).
+# Automatic-liver-segmentation using Monai and PyTorch
 
 ![Output image](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/blob/main/images/liver_segmentation.PNG)
 
